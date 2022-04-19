@@ -1,0 +1,8 @@
+{
+    "name": "TimesheetFunction",
+    "version": "0.0.1",
+    "dependencies": {
+      "googleapis": "^51.0.0"
+    }
+  }
+  
